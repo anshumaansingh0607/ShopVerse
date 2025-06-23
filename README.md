@@ -34,6 +34,9 @@
 ![image](https://github.com/user-attachments/assets/6f859b0e-e5ed-4c3b-ab97-091e866dcae6)
 ![image](https://github.com/user-attachments/assets/1d4b6640-78de-498a-90ae-cbcebc9cf7f7)
 
+ADMIN PANEL
+
+![image](https://github.com/user-attachments/assets/38fb7489-24a7-4c31-8396-06fbdd2e6413)
 
 
 
@@ -82,9 +85,9 @@ Made with ❤️ by Anshumaan Singh
 
 ---
 
-Let me know if you'd like:
-- A `LICENSE` file
-- Shields/badges (build, license, live demo, etc.)
-- To write a README for Kanpur Metro Tracker or DSA Tracker too
+MIT License
+
+Copyright (c) 2025 Anshumaan Singh
+
 
 
