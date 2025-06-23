@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Apply Outfit font to everything */
+* {
+  font-family: 'Outfit', sans-serif;
+}
+
+/* Input elements styling */
+select, input, textarea {
+  border: 1px solid #ccc;
+  outline-color: #14b8a6; /* Teal accent (Tailwind emerald-500) */
+  border-radius: 4px;
+}
+
+/* Active item background */
+.active {
+  background-color: #e0f7f4; /* Light teal shade */
+  border-color: #14b8a6;     /* Teal accent */
+}
